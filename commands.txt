@@ -1,0 +1,37 @@
+1 Command to view current working directory
+2 Command for create file
+3 Command for create directory
+4 Command Traverse between directory
+5 Command to copy the file
+6 Command to remove the file
+7 Command to move the file
+8 Command to view the command history
+9 Command to search the file
+10 filte/search from output of any command
+11 Command to Difference between two files
+12 Convert folder to zip file
+13 Unzip file command
+14 Command to install any software
+15 command for ssh login
+16 copy folder from server to local and local to server through command
+17 Command for change the file permission
+18 Initialize a project with git
+19 Clone a project from git
+20 Type of clone and difference between them
+21 Create Branch
+22 Traverse between git branches
+23 Merge git branch
+24 Rebase branch
+25 View the history of commit
+26 pull code from git
+27 Command for list all the added ssh key 
+28 Steps to generate and add ssh key
+29 Commands to verify that you have successfully connected with github or not
+30 How to Manage multiple ssh key for github
+31 How would you handle if you are trying to clone any project from git through ssh and getting permission error.
+32 Command to change git config name and email
+33 Command to view the current git user name and email
+34 git Command to delete all local changes and revert the deleted code (two commands)
+35 How To change the commit message if you have committed locally
+36 How to change the commit message if you have pushed on live server.
+37 How to delete last two commit from local and server.
