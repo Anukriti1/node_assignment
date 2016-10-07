@@ -1,0 +1,40 @@
+1. pwd
+2. gedit filename	
+3. mkdir directoryname
+4. cd foldername/
+5. cp source dest
+6. rm filename
+7. mv source dest
+8. history
+9.find .
+10. tracepath resultname
+11. diff file1.txt file2.txt
+12. zip archive inpath inpath
+13. unzip file.zip -d destination_folder
+14. install ${packagename}
+15. ssh [-l username] hostname | user@remote-hostname [command]
+16. scp SourceFile user@server:directory/TargetFile
+17. chmod options permissions filename
+18.  git init
+19. git clone git@github.com:whatever folder-name
+21. git branch
+22. git checkout master
+    git merge branch-name
+23. $ git fetch
+    $ cd [working-branch]
+	$ git rebase [production branch]
+	$ git submodule update
+	$ git add --all
+	$ git commit -a
+	$ git push origin [working-branch] 
+24. git cherry -v master
+25. git pull [<repository> [<refspec>...]]
+29. $ ssh -T git@github.com
+    # Attempts to ssh to GitHub
+32. git config --global user.name "abc"   
+    git config --global user.email [your email address here]
+33. git config --list
+34. git reset
+    git revert
+         
+
